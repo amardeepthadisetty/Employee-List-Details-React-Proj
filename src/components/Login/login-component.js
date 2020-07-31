@@ -33,7 +33,7 @@ const Login = () => {
     return (
         <div className="login-screen col-sm-6">
             <form onSubmit={onSubmitHandler}>
-                
+                <h1>Login </h1>
                 <div className="form-group">
                     <label htmlFor="email">Email address:</label>
                     <input type="text" name="email" value={email} onChange={onChangeEmail} className="form-control" placeholder="Enter email" id="email" />

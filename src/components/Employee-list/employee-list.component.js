@@ -1,5 +1,6 @@
 import React, { useEffect, useState, Fragment } from 'react';
 import empData from '../../data.json';
+import { Link } from 'react-router-dom';
 
 const EmployeeList = () => {
     const [departments, setDepartments] = useState([]);
@@ -56,14 +57,14 @@ const EmployeeList = () => {
                     employeeList.map(d => {
                         return (
                             <div className="employee-box" key={d.emp_id}>
-                                <div className="each-box">Employee ID : {d.emp_id}</div>
+                                <div className="each-box">
+                                    <Link to={`/employee-details/${d.emp_id}`} className="btn btn-sm btn-info">Employee ID : {d.emp_id} </Link>
+                                    
+                                    </div>
                                 <div className="each-box">Employee name : {d.emp_name}</div>
                                 <div className="each-box">Employee Address : {d.emp_address}</div>
-                                <div className="each-box">Employee Department : {d.emp_department}</div>
                                 <div className="each-box">Employee Designation : {d.emp_designation}</div>
-                                <div className="each-box">Employee Experience : {d.emp_experience}</div>
-                                <div className="each-box">Employee Salary : {d.emp_salary}</div>
-                                <div className="each-box">Employee emp_photo_path : <img src={`http:localhost:3000`+d.emp_photo_path} alt={d.emp_photo_path} /></div>
+                                <div className="each-box">Employee emp_photo_path : <img height="120px" src={d.emp_photo_path} alt={d.emp_photo_path} /></div>
                             </div>
                         )
                     })

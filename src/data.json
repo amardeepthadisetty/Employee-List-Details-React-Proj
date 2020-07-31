@@ -7,7 +7,7 @@
         "emp_designation": "Sales Manager",
         "emp_experience": "Have 5 years of experience in sales",
         "emp_salary": "30000",
-        "emp_photo_path": "/public/logo512.png"
+        "emp_photo_path": "/logo512.png"
     },
     {
         "emp_name": "Deep",
@@ -17,7 +17,7 @@
         "emp_designation": "Accounts Admin",
         "emp_experience": "Have 10 years of experience in Admin operations",
         "emp_salary": "25000",
-        "emp_photo_path": "/public/logo512.png"
+        "emp_photo_path": "/logo512.png"
     },
     {
         "emp_name": "Shankar",
@@ -27,7 +27,7 @@
         "emp_designation": "Accounts Admin",
         "emp_experience": "Have 5 years of experience in Admin operations",
         "emp_salary": "50000",
-        "emp_photo_path": "/public/logo512.png"
+        "emp_photo_path": "/logo512.png"
     },
     {
         "emp_name": "Gnanender",
@@ -37,7 +37,7 @@
         "emp_designation": "Developer",
         "emp_experience": "Have 2 years of experience into PHP",
         "emp_salary": "25000",
-        "emp_photo_path": "/public/logo512.png"
+        "emp_photo_path": "/logo512.png"
     },
     {
         "emp_name": "Amarrdeep",
@@ -47,7 +47,7 @@
         "emp_designation": "Developer",
         "emp_experience": "Have 4 years of experience into PHP",
         "emp_salary": "40000",
-        "emp_photo_path": "/public/logo512.png"
+        "emp_photo_path": "/logo512.png"
     },
     {
         "emp_name": "Narender Mamidi",
@@ -57,7 +57,7 @@
         "emp_designation": "UI Designer",
         "emp_experience": "Have 4 years of experience into UI",
         "emp_salary": "36000",
-        "emp_photo_path": "/public/logo512.png"
+        "emp_photo_path": "/logo512.png"
     },
     {
         "emp_name": "Harish",
@@ -67,7 +67,7 @@
         "emp_designation": "Dot Net Developer",
         "emp_experience": "Have 4 years of experience into DOT NET",
         "emp_salary": "45000",
-        "emp_photo_path": "/public/logo512.png"
+        "emp_photo_path": "/logo512.png"
     },
     {
         "emp_name": "Akhil",
@@ -77,7 +77,7 @@
         "emp_designation": "SEO ANALYST",
         "emp_experience": "Have 5 years of experience into sEO",
         "emp_salary": "30000",
-        "emp_photo_path": "/public/logo512.png"
+        "emp_photo_path": "/logo512.png"
     },
     {
         "emp_name": "Geethakka",
@@ -87,7 +87,7 @@
         "emp_designation": "SEO ANALYST",
         "emp_experience": "Have 2 years of experience into sEO",
         "emp_salary": "19000",
-        "emp_photo_path": "/public/logo512.png"
+        "emp_photo_path": "/logo512.png"
     },
     {
         "emp_name": "Shravanthi",
@@ -97,6 +97,6 @@
         "emp_designation": "HR",
         "emp_experience": "Have 4 years of experience into HR",
         "emp_salary": "19000",
-        "emp_photo_path": "/public/logo512.png"
+        "emp_photo_path": "/logo512.png"
     }
 ]

@@ -1,0 +1,102 @@
+[
+    {
+        "emp_name": "Amar",
+        "emp_id": "1211",
+        "emp_address": "Gujarat, ahmeadabasd",
+        "emp_department" : "Sales",
+        "emp_designation": "Sales Manager",
+        "emp_experience": "Have 5 years of experience in sales",
+        "emp_salary": "30000",
+        "emp_photo_path": "/public/logo512.png"
+    },
+    {
+        "emp_name": "Deep",
+        "emp_id": "1212",
+        "emp_address": "Bangalore, India",
+        "emp_department": "Accounts",
+        "emp_designation": "Accounts Admin",
+        "emp_experience": "Have 10 years of experience in Admin operations",
+        "emp_salary": "25000",
+        "emp_photo_path": "/public/logo512.png"
+    },
+    {
+        "emp_name": "Shankar",
+        "emp_id": "1213",
+        "emp_address": "Bangalore, India",
+        "emp_department": "Accounts",
+        "emp_designation": "Accounts Admin",
+        "emp_experience": "Have 5 years of experience in Admin operations",
+        "emp_salary": "50000",
+        "emp_photo_path": "/public/logo512.png"
+    },
+    {
+        "emp_name": "Gnanender",
+        "emp_id": "1214",
+        "emp_address": "Hyderabad, India",
+        "emp_department": "IT",
+        "emp_designation": "Developer",
+        "emp_experience": "Have 2 years of experience into PHP",
+        "emp_salary": "25000",
+        "emp_photo_path": "/public/logo512.png"
+    },
+    {
+        "emp_name": "Amarrdeep",
+        "emp_id": "1215",
+        "emp_address": "Hyderabad, India",
+        "emp_department": "IT",
+        "emp_designation": "Developer",
+        "emp_experience": "Have 4 years of experience into PHP",
+        "emp_salary": "40000",
+        "emp_photo_path": "/public/logo512.png"
+    },
+    {
+        "emp_name": "Narender Mamidi",
+        "emp_id": "1216",
+        "emp_address": "Hyderabad, India",
+        "emp_department": "IT",
+        "emp_designation": "UI Designer",
+        "emp_experience": "Have 4 years of experience into UI",
+        "emp_salary": "36000",
+        "emp_photo_path": "/public/logo512.png"
+    },
+    {
+        "emp_name": "Harish",
+        "emp_id": "1217",
+        "emp_address": "Hyderabad, India",
+        "emp_department": "IT",
+        "emp_designation": "Dot Net Developer",
+        "emp_experience": "Have 4 years of experience into DOT NET",
+        "emp_salary": "45000",
+        "emp_photo_path": "/public/logo512.png"
+    },
+    {
+        "emp_name": "Akhil",
+        "emp_id": "1218",
+        "emp_address": "Hyderabad, India",
+        "emp_department": "Marketing",
+        "emp_designation": "SEO ANALYST",
+        "emp_experience": "Have 5 years of experience into sEO",
+        "emp_salary": "30000",
+        "emp_photo_path": "/public/logo512.png"
+    },
+    {
+        "emp_name": "Geethakka",
+        "emp_id": "1219",
+        "emp_address": "Hyderabad, India",
+        "emp_department": "Marketing",
+        "emp_designation": "SEO ANALYST",
+        "emp_experience": "Have 2 years of experience into sEO",
+        "emp_salary": "19000",
+        "emp_photo_path": "/public/logo512.png"
+    },
+    {
+        "emp_name": "Shravanthi",
+        "emp_id": "1220",
+        "emp_address": "Hyderabad, India",
+        "emp_department": "HR",
+        "emp_designation": "HR",
+        "emp_experience": "Have 4 years of experience into HR",
+        "emp_salary": "19000",
+        "emp_photo_path": "/public/logo512.png"
+    }
+]

@@ -9,7 +9,7 @@ const Login = () => {
 
     const onSubmitHandler = (e) => {
         e.preventDefault();
-        if(email=='' || password==''){
+        if(email==='' || password===''){
             alert("Email and password are mandatory");
         }else if(email==="test" && password==="test"){
             history.push('employee-list');
